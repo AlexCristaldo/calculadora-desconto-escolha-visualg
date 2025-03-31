@@ -5,9 +5,9 @@ Calcula Desconto do produto baseado no codigo dele.
 ## Funcionalidades
 
  Aplica desconto de Acordo com o numero informado pelo usuario
- 1 - 10% de desconto.
- 2 - 20% de desconto.
- 3 - 30% de desconto.
+  1 - 10% de desconto.
+  2 - 20% de desconto.
+  3 - 30% de desconto.
 - Valida tambem se o codigo é invalido.
   
 ## Tecnologias utilizadas
