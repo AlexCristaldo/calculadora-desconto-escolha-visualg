@@ -9,7 +9,7 @@ Calcula Desconto do produto baseado no codigo dele.
  2 - 20% de desconto.
  3 - 30% de desconto.
 - Valida tambem se o codigo é invalido.
-- 
+  
 ## Tecnologias utilizadas
 
 - VisualG
