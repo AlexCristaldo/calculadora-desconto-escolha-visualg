@@ -17,7 +17,7 @@ Calcula Desconto do produto baseado no codigo dele.
 - Operações matemáticas simples
 - Validação de Entrada
 
-## Exemplo de uso
+## Exemplo do Código:
 
 ```pascal
 Var
